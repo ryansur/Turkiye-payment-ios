@@ -1,3 +1,7 @@
+🌍 **Read in other languages:**
+[English](README.md) | [简体中文](README-zh.md) | [繁體中文](README-zh-TW.md) | [日本語](README-ja.md) | [Deutsch](README-de.md) | [Français](README-fr.md) | [한국어](README-ko.md) | [Español](README-es.md)
+
+
 # 🇹🇷 Solution: Turkish YouTube Premium Won't Renew Despite Sufficient Balance
 
 Recently, many users have encountered the same issue in the Turkish App Store: despite having plenty of gift card balance, their YouTube Premium subscription gets automatically canceled without warning. 
