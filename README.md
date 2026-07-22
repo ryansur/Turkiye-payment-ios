@@ -33,7 +33,7 @@ Once you successfully bind a local Turkish bank card and pass the verification, 
 
 For most users, applying for a local Turkish bank card from scratch is quite a high barrier. For your convenience, I've compiled a few available workarounds. You can get a Turkish virtual card from either of the two places below—choose whichever suits you best:
 
-### 📌 Option 1: Xiaohongshu (RED)
+### 📌 Option 1: Xiaohongshu
 Someone on this Chinese social app offers services to unlock Turkish payment methods (**Tested and verified by myself**).
 * **Link**: [http://xhslink.com/o/2MHHyv3X4oC](http://xhslink.com/o/2MHHyv3X4oC)
 
