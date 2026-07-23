@@ -38,11 +38,7 @@ Ofrece un servicio para obtener una tarjeta virtual turca. Tras el pago, solo ti
 * **Métodos de pago:** Pago seguro a través de **Tarjeta de crédito (Credit Card)** o **PayPal**.
 * **Garantía:** Resolución al 100%. Reembolso completo si la tarjeta falla al vincularse o renovar tu suscripción. Cero riesgos. 👉 [Consíguelo en Payhip](https://payhip.com/b/DH6sh)
 
-📌 **Opción 2: Xiaohongshu (RED)**
-Un servicio de asistencia y desbloqueo ofrecido por un experto en la aplicación social china Xiaohongshu. El proceso es similar al anterior; un agente te ayudará manualmente a obtener la tarjeta. (Probado y verificado por mí mismo)
 
-* **Requisitos:** Requiere descargar la aplicación "Xiaohongshu" previamente y realizar el pago a través de **WeChat Pay** o **Alipay**.
-* **Garantía:** Reembolso completo en caso de fallo. 👉 [Ver en Xiaohongshu](http://xhslink.com/o/2MHHyv3X4oC)
 
 ---
 
